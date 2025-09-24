@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B097EF-A840-449E-B273-8EF06A140C56}|\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30).vcxproj|C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\dijkstra.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9B097EF-A840-449E-B273-8EF06A140C56}|\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30).vcxproj|solutionrelative:dijkstra.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B097EF-A840-449E-B273-8EF06A140C56}|\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30).vcxproj|C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\menu1.4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9B097EF-A840-449E-B273-8EF06A140C56}|\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30).vcxproj|solutionrelative:menu1.4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B097EF-A840-449E-B273-8EF06A140C56}|\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30).vcxproj|C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\menu3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9B097EF-A840-449E-B273-8EF06A140C56}|\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30).vcxproj|solutionrelative:menu3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B097EF-A840-449E-B273-8EF06A140C56}|\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30).vcxproj|C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\menu2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9B097EF-A840-449E-B273-8EF06A140C56}|\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30).vcxproj|solutionrelative:menu2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B097EF-A840-449E-B273-8EF06A140C56}|\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30).vcxproj|C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9B097EF-A840-449E-B273-8EF06A140C56}|\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30).vcxproj|solutionrelative:menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B097EF-A840-449E-B273-8EF06A140C56}|\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30).vcxproj|C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\dijkstra.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9B097EF-A840-449E-B273-8EF06A140C56}|\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30).vcxproj|solutionrelative:dijkstra.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu1.4.c",
+              "DocumentMoniker": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\menu1.4.c",
+              "RelativeDocumentMoniker": "menu1.4.c",
+              "ToolTip": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\menu1.4.c",
+              "RelativeToolTip": "menu1.4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-24T06:12:30.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menu3.c",
+              "DocumentMoniker": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\menu3.c",
+              "RelativeDocumentMoniker": "menu3.c",
+              "ToolTip": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\menu3.c",
+              "RelativeToolTip": "menu3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-24T06:11:24.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menu2.c",
+              "DocumentMoniker": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\menu2.c",
+              "RelativeDocumentMoniker": "menu2.c",
+              "ToolTip": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\menu2.c",
+              "RelativeToolTip": "menu2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-24T06:11:21.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "menu.c",
+              "DocumentMoniker": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\menu.c",
+              "RelativeDocumentMoniker": "menu.c",
+              "ToolTip": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\menu.c",
+              "RelativeToolTip": "menu.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-24T06:11:18.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dijkstra.c",
+              "DocumentMoniker": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\dijkstra.c",
+              "RelativeDocumentMoniker": "dijkstra.c",
+              "ToolTip": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\dijkstra.c",
+              "RelativeToolTip": "dijkstra.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-24T06:11:13.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dijkstra.h",
+              "DocumentMoniker": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\dijkstra.h",
+              "RelativeDocumentMoniker": "dijkstra.h",
+              "ToolTip": "C:\\Users\\Roneon\\Desktop\\\uC815\uB9AC\\\uC11C\uC6D0\uB300 2\uD559\uB144 2023\uB144 1\uD559\uAE30\\\uC54C\uACE0\uB9AC\uC998 2\uD559\uB144 2023 1\uD559\uAE30\\\uCC0C\uB9AC\uB9AC\uB9B0 \uC54C\uACE0\uB9AC\uC998\\\uC54C\uACE0\uB9AC\uC998 3\uD300 \uD300\uD504\uB85C\uC81D\uD2B8(\uAE38\uCC3E\uAE30) - \uCD5C\uC885\\\uC54C\uACE0\uB9AC\uC998 3\uD300 (\uBBF8\uB2C8 \uD504\uB85C\uC81D\uD2B8 - \uAE38\uCC3E\uAE30)\\dijkstra.h",
+              "RelativeToolTip": "dijkstra.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T06:05:09.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
